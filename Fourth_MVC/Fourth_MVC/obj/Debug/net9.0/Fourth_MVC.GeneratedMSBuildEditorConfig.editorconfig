@@ -1,0 +1,193 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Fourth_MVC
+build_property.RootNamespace = Fourth_MVC
+build_property.ProjectDir = /home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXMvSWRlbnRpdHkvUGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQWNjb3VudC9SZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/Assets/Aqarat.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNzZXRzL0FxYXJhdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/Assets/Complexs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNzZXRzL0NvbXBsZXhzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/Assets/Fields.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNzZXRzL0ZpZWxkcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/Assets/Lands.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQXNzZXRzL0xhbmRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeAqarats/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVBcWFyYXRzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeAqarats/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVBcWFyYXRzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeAqarats/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVBcWFyYXRzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeAqarats/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVBcWFyYXRzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeAqarats/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVBcWFyYXRzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeComplexes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVDb21wbGV4ZXMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeComplexes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVDb21wbGV4ZXMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeComplexes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVDb21wbGV4ZXMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeComplexes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVDb21wbGV4ZXMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeComplexes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVDb21wbGV4ZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeFields/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVGaWVsZHMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeFields/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVGaWVsZHMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeFields/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVGaWVsZHMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeFields/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVGaWVsZHMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeFields/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVGaWVsZHMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeLands/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVMYW5kcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeLands/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVMYW5kcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeLands/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVMYW5kcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeLands/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVMYW5kcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeLands/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVMYW5kcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeRegisters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVSZWdpc3RlcnMvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeRegisters/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVSZWdpc3RlcnMvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeRegisters/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVSZWdpc3RlcnMvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeRegisters/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVSZWdpc3RlcnMvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/EmployeeRegisters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRW1wbG95ZWVSZWdpc3RlcnMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/Home/contact_us.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9jb250YWN0X3VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/Home/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/wael/Desktop/Codering/Fourth_MVC/Fourth_MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-mqynptns89

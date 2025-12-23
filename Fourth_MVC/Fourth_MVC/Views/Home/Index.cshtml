@@ -1,0 +1,159 @@
+﻿@{
+    ViewData["Title"] = "الصفحة الرئيسية";
+}
+
+<!-- بانر رئيسي مع فيديوهات متحركة -->
+<div id="videoCarousel" class="carousel slide carousel-fade" data-bs-ride="carousel">
+    <div class="carousel-inner">
+
+        <!-- الفيديو الأول -->
+        <div class="carousel-item active">
+            <video autoplay loop muted playsinline class="d-block w-100" style="height: 500px; object-fit: cover;">
+                <source src="~/videos/football.mp4" type="video/mp4">
+                متصفحك لا يدعم الفيديو
+            </video>
+            <div class="carousel-caption d-none d-md-block">
+                <h1 class="fw-bold">⚽ ملاعب كرة القدم</h1>
+                <p>ملاعب معشبة مجهزة بالكامل لإقامة المباريات</p>
+            </div>
+        </div>
+
+        <!-- الفيديو الثاني -->
+        <div class="carousel-item">
+            <video autoplay loop muted playsinline class="d-block w-100" style="height: 500px; object-fit: cover;">
+                <source src="~/videos/beach.mp4" type="video/mp4">
+                متصفحك لا يدعم الفيديو
+            </video>
+            <div class="carousel-caption d-none d-md-block">
+                <h1 class="fw-bold">🏖️ الملاعب الشاطئية</h1>
+                <p>استمتع بالأنشطة الرياضية على الرمال الذهبية</p>
+            </div>
+        </div>
+
+        <!-- الفيديو الثالث -->
+        <div class="carousel-item">
+            <video autoplay loop muted playsinline class="d-block w-100" style="height: 500px; object-fit: cover;">
+                <source src="~/videos/tennis.mp4" type="video/mp4">
+                متصفحك لا يدعم الفيديو
+            </video>
+            <div class="carousel-caption d-none d-md-block">
+                <h1 class="fw-bold">🎾 ملاعب التنس الأرضي</h1>
+                <p>ملاعب بمواصفات عالمية للبطولات الدولية</p>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- أزرار التنقل -->
+    <button class="carousel-control-prev" type="button" data-bs-target="#videoCarousel" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#videoCarousel" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </button>
+</div>
+
+
+
+<!-- قسم الترحيب -->
+<div class="container mt-5" style="min-height: 30vh;">
+    <div class="row justify-content-center align-items-center h-50">
+        <div class="col-md-8 text-center">
+            <h2 class="text-primary mb-3">مرحبًا بكم 👋</h2>
+            <p>
+                هذه المنصة توفر لك إمكانية استكشاف فرص استثمارية متنوعة
+                في العقارات، الأراضي التجارية، المباني الرياضية، وأرضيات الملاعب
+            </p>
+            <p>
+                يمكنك التقديم الإلكتروني، توقيع العقود، والدفع عبر الإنترنت بكل سهولة
+            </p>
+        </div>
+    </div>
+</div>
+
+
+<!-- أقسام مختصرة -->
+<div class="row text-center">
+    <div class="col-md-3">
+        <a href="/Assets/Aqarat" class="text-decoration-none">
+            <div class="card p-3 shadow-sm hover-card">
+                <h5 class="text-primary">العقارات</h5>
+                <p>البنايات والشقق والمحلات التابعة للوزارة</p>
+            </div>
+        </a>
+    </div>
+
+    <div class="col-md-3">
+        <a href="/Assets/Lands" class="text-decoration-none">
+            <div class="card p-3 shadow-sm hover-card">
+                <h5 class="text-primary">الأراضي</h5>
+                <p>الأراضي التجارية والصناعية للأندية والفرق</p>
+            </div>
+        </a>
+    </div>
+
+    <div class="col-md-3">
+        <a href="/Assets/Complexs" class="text-decoration-none">
+            <div class="card p-3 shadow-sm hover-card">
+                <h5 class="text-primary">المجمعات</h5>
+                <p>المسابح والصالات الرياضية المغلقة</p>
+            </div>
+        </a>
+    </div>
+
+    <div class="col-md-3">
+        <a href="/Assets/Fields" class="text-decoration-none">
+            <div class="card p-3 shadow-sm hover-card">
+                <h5 class="text-primary">الملاعب</h5>
+                <p>الملاعب الترابية والشاطئية وملاعب التنس</p>
+            </div>
+        </a>
+    </div>
+</div>
+
+
+<!-- قسم المقالات -->
+<!-- <div class="container mt-5">
+    <h3 class="text-center mb-4 text-primary">📰 المقالات</h3>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card p-3 shadow-sm hover-card">
+                <img src="~/images/article1.jpg" class="card-img-top rounded" alt="مقال 1">
+                <div class="card-body">
+                    <h5 class="card-title">أهمية الاستثمار في العقارات</h5>
+                    <p class="card-text">
+                        تعرف على الفوائد طويلة المدى وكيف يمكن للعقار أن يكون مصدر دخل ثابت.
+                    </p>
+                    <a href="/Articles/Details/1" class="btn btn-outline-primary btn-sm">اقرأ المزيد</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card p-3 shadow-sm hover-card">
+                <img src="~/images/article2.jpg" class="card-img-top rounded" alt="مقال 2">
+                <div class="card-body">
+                    <h5 class="card-title">الاستثمار في الأراضي</h5>
+                    <p class="card-text">
+                        استكشف فرص تنمية الأراضي التجارية والصناعية وأثرها الاقتصادي.
+                    </p>
+                    <a href="/Articles/Details/2" class="btn btn-outline-primary btn-sm">اقرأ المزيد</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card p-3 shadow-sm hover-card">
+                <img src="~/images/article3.jpg" class="card-img-top rounded" alt="مقال 3">
+                <div class="card-body">
+                    <h5 class="card-title">دور المجمعات الرياضية</h5>
+                    <p class="card-text">
+                        كيف تساهم المرافق الرياضية في دعم المجتمعات وتوفير فرص استثمارية جديدة.
+                    </p>
+                    <a href="/Articles/Details/3" class="btn btn-outline-primary btn-sm">اقرأ المزيد</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div> -->
+

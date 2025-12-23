@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Fourth_MVC.Models.Aqarat>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div dir="rtl" style="text-align:right;">
+
+
+    <h2>العقارات</h2>
+
+    <p>
+        <a asp-action="Create" class="btn btn-primary">➕ إضافة عقار جديد</a>
+    </p>
+
+    <table class="table table-bordered table-striped">
+        <thead>
+            <tr>
+
+                <th>نوع العقار</th>
+                <th>الموقع</th>
+                <th>المساحة</th>
+                <th>الوصف</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>@item.Name</td>
+                    <td>@item.Location</td>
+                    <td>@item.Area</td>
+                    <td>@item.Description</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info btn-sm">📄 تفاصيل</a>
+                        <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-warning btn-sm">✏️ تعديل</a>
+                        <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger btn-sm">🗑️ حذف</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

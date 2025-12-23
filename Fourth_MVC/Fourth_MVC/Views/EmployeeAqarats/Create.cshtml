@@ -1,0 +1,46 @@
+﻿@model Fourth_MVC.Models.Aqarat
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div dir="rtl" style="text-align:right;">
+    <h2>إضافة عقار جديد</h2>
+
+    <form asp-action="Create" method="post">
+        <div class="form-group">
+            <label for="Name">الاسم</label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="Location">الموقع</label>
+            <input asp-for="Location" class="form-control" />
+            <span asp-validation-for="Location" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="Area">المساحة</label>
+            <input asp-for="Area" class="form-control" />
+            <span asp-validation-for="Area" class="text-danger"></span>
+        </div>
+
+        <div class="form-group">
+            <label for="Description">الوصف</label>
+            <textarea asp-for="Description" class="form-control" rows="4" style="resize: vertical;"></textarea>
+            <span asp-validation-for="Description" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-success">💾 حفظ</button>
+        <a asp-action="Index" class="btn btn-secondary">⬅️ إلغاء</a>
+    </form>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

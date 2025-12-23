@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Fourth_MVC.Models.Aqarat>
+
+@{
+    ViewData["Title"] = "العقارات";
+}
+
+<div dir="rtl" style="text-align:right;">
+    <h1 class="text-primary mb-4">استثمار العقارات المتاحة</h1>
+
+    @if (!Model.Any())
+    {
+        <p class="text-muted">لا توجد عقارات حالياً.</p>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var aqarat in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card shadow-sm h-100">
+                        <div class="card-body">
+                            <h5 class="card-title text-primary">@aqarat.Name</h5>
+                            <p class="card-text"><strong>الموقع:</strong> @aqarat.Location</p>
+                            <p class="card-text"><strong>المساحة:</strong> @aqarat.Area</p>
+                            <p class="card-text">@aqarat.Description</p>
+                        </div>
+                        <div class="card-footer bg-transparent text-center">
+                            <a href="https://tatwir.om/public/auctions" target="_blank" class="btn btn-success">
+                                💼 تقديم طلب استثمار
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>

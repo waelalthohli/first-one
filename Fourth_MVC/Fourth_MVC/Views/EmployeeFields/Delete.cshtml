@@ -1,0 +1,32 @@
+﻿@model Fourth_MVC.Models.Field
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<div dir="rtl" style="text-align:right;">
+
+    <h2>هل أنت متأكد أنك تريد حذف هذه ارضية الملعب؟</h2>
+
+    <div>
+        <dl class="row">
+            <dt class="col-sm-2">اسم الملعب</dt>
+            <dd class="col-sm-10">@Model.Name</dd>
+
+            <dt class="col-sm-2">الموقع</dt>
+            <dd class="col-sm-10">@Model.Location</dd>
+
+            <dt class="col-sm-2">المساحة</dt>
+            <dd class="col-sm-10">@Model.Area</dd>
+
+            <dt class="col-sm-2">الوصف</dt>
+            <dd class="col-sm-10">@Model.Description</dd>
+        </dl>
+    </div>
+
+    <form asp-action="Delete" method="post">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger">🗑️ حذف</button>
+        <a asp-action="Index" class="btn btn-secondary">⬅️ إلغاء</a>
+    </form>
+</div>

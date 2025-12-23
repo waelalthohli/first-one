@@ -1,0 +1,35 @@
+﻿@model Fourth_MVC.Models.Complex
+
+@{
+    ViewData["Title"] = "تفاصيل مباني المجمعات الرياضية";
+}
+
+<div dir="rtl" style="text-align:right;">
+
+    <h2 class="mb-4">📋 تفاصيل مبنى المجمع الرياضي</h2>
+
+    <table class="table table-bordered table-striped">
+        <tr>
+            <th style="width:200px;">Id</th>
+            <td>@Model.Id</td>
+        </tr>
+        <tr>
+            <th>نوع مبنى المجمع</th>
+            <td>@Model.Name</td>
+        </tr>
+        <tr>
+            <th>الموقع</th>
+            <td>@Model.Location</td>
+        </tr>
+        <tr>
+            <th>المساحة</th>
+            <td>@Model.Capacity</td>
+        </tr>
+        <tr>
+            <th>الوصف</th>
+            <td>@Model.Description</td>
+        </tr>
+    </table>
+
+    <a asp-action="Index" class="btn btn-secondary mt-3">⬅️ رجوع</a>
+</div>

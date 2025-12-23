@@ -1,0 +1,17 @@
+# Use the Colab notebook (recommended)
+Open `parallel-recognition/notebooks/parallel_recognition_colab.ipynb` in Colab and run cells in order.
+
+# Quick CLI steps (alternative)
+!git clone https://github.com/your_user/parallel-recognition.git
+%cd parallel-recognition
+!pip install -r requirements.txt
+
+# Run image example
+!python SRC/train_image_tpu.py --batch_size=512 --epochs=5
+
+# Run speech example
+!python SRC/train_speech_tpu.py --batch_size=128 --epochs=10
+
+# Notes
+- In Colab select `Runtime -> Change runtime type -> TPU` to use a TPU.
+- Mount Google Drive to save checkpoints or data.

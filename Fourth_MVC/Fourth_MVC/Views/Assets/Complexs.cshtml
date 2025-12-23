@@ -1,0 +1,62 @@
+﻿@model IEnumerable<Fourth_MVC.Models.Complex>
+
+@{
+    ViewData["Title"] = "المجمعات";
+}
+
+<div dir="rtl" style="text-align:right;">
+    <h1 class="text-primary mb-4">مباني المجمعات المتاحة</h1>
+
+    @if (!Model.Any())
+    {
+        <p class="text-muted">لا توجد مجمعات حالياً.</p>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var complex in Model)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card shadow-sm h-100">
+                        <div class="card-body">
+                            <h5 class="card-title text-primary">@complex.Name</h5>
+                            <p class="card-text"><strong>الموقع:</strong> @complex.Location</p>
+                            <p class="card-text"><strong>السعة:</strong> @complex.Capacity</p>
+                            <p class="card-text">@complex.Description</p>
+                        </div>
+                        <div class="card-footer bg-transparent text-center">
+                            <!-- زر فتح البوب أوت -->
+                            <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#termsModal-@complex.Id">
+                                📜 الشروط والأحكام
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- ✅ Modal لكل مجمع -->
+                <div class="modal fade" id="termsModal-@complex.Id" tabindex="-1" aria-labelledby="termsLabel-@complex.Id" aria-hidden="true">
+                    <div class="modal-dialog modal-lg modal-dialog-centered">
+                        <div class="modal-content">
+                            <div class="modal-header">
+                                <h5 class="modal-title" id="termsLabel-@complex.Id">📜 الشروط والأحكام للاستثمار</h5>
+                                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="إغلاق"></button>
+                            </div>
+                            <div class="modal-body" style="text-align:right;" dir="rtl">
+                                <p>1- يلتزم المستثمر باستخدام المجمع حسب الغرض المحدد.</p>
+                                <p>2- يحق للجهة سحب المجمع في حال مخالفة الشروط.</p>
+                                <p>3- جميع تكاليف الصيانة والخدمات على المستثمر.</p>
+                                <p>4- جميع القوانين والأنظمة العمانية ملزمة للمستثمر.</p>
+                                <hr />
+                                <p class="fw-bold text-danger">هل توافق على جميع الشروط والأحكام للاستمرار؟</p>
+                            </div>
+                            <div class="modal-footer">
+                                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">❌ إغلاق</button>
+                                <a href="/Payment/Checkout" class="btn btn-success">✅ أوافق وانتقل للدفع</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>

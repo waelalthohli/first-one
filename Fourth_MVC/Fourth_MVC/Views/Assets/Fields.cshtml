@@ -1,0 +1,119 @@
+﻿@model IEnumerable<Fourth_MVC.Models.Field>
+
+
+@{
+    ViewData["Title"] = "الملاعب";
+}
+
+<div dir="rtl" style="text-align:right;">
+
+<h2 class="text-primary mb-4">استأجار او استثمار الملاعب</h2>
+<p>اختر نوع الملعب لعرض تفاصيله 👇</p>
+</div>
+
+<!-- صور الملاعب -->
+<div class="row text-center mb-4">
+    <div class="col-md-4">
+        <img src="~/image/football.jpg"
+             class="img-fluid rounded shadow clickable uniform-img"
+             alt="ملاعب كرة القدم" data-target="football-details" />
+        <h5 class="mt-2">ملاعب كرة القدم</h5>
+    </div>
+
+    <div class="col-md-4">
+        <img src="~/image/beach.jpg"
+             class="img-fluid rounded shadow clickable uniform-img"
+             alt="الملاعب الشاطئية" data-target="beach-details" />
+        <h5 class="mt-2">الملاعب الشاطئية</h5>
+    </div>
+
+    <div class="col-md-4">
+        <img src="~/image/tennis.jpg"
+             class="img-fluid rounded shadow clickable uniform-img"
+             alt="ملاعب التنس الأرضي" data-target="tennis-details" />
+        <h5 class="mt-2">ملاعب التنس</h5>
+    </div>
+</div>
+
+
+
+<!-- تفاصيل الملاعب -->
+<div id="details-container" class="card p-4 shadow-sm">
+    <div dir="rtl" style="text-align:right;">
+        <h1 class="text-primary mb-4">الملاعب المتاحة للاستثمار</h1>
+
+        @if (!Model.Any())
+        {
+            <p class="text-muted">لا توجد ملاعب حالياً.</p>
+        }
+        else
+        {
+            <div class="row">
+                @foreach (var field in Model)
+                {
+                    <div class="col-md-4 mb-4">
+                        <div class="card shadow-sm h-100">
+                            <div class="card-body">
+                                <h5 class="card-title text-primary">@field.Name</h5>
+                                <p class="card-text"><strong>الموقع:</strong> @field.Location</p>
+                                <p class="card-text"><strong>المساحة:</strong> @field.Area</p>
+                                <p class="card-text">@field.Description</p>
+                            </div>
+                            <div class="card-footer bg-transparent text-center">
+                                <!-- زر فتح البوب أوت -->
+                                <button type="button" class="btn btn-warning" data-bs-toggle="modal" data-bs-target="#termsModal-@field.Id">
+                                    📜 الشروط والأحكام
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- ✅ Modal لكل ملعب -->
+                    <div class="modal fade" id="termsModal-@field.Id" tabindex="-1" aria-labelledby="termsLabel-@field.Id" aria-hidden="true">
+                        <div class="modal-dialog modal-lg modal-dialog-centered">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="termsLabel-@field.Id">📜 الشروط والأحكام للاستثمار</h5>
+                                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="إغلاق"></button>
+                                </div>
+                                <div class="modal-body" style="text-align:right;" dir="rtl">
+                                    <p>1- يلتزم المستثمر باستخدام الملعب حسب الغرض المحدد.</p>
+                                    <p>2- يحق للجهة سحب الملعب في حال مخالفة الشروط.</p>
+                                    <p>3- جميع تكاليف الصيانة والخدمات على المستثمر.</p>
+                                    <p>4- جميع القوانين والأنظمة العمانية ملزمة للمستثمر.</p>
+                                    <hr />
+                                    <p class="fw-bold text-danger">هل توافق على جميع الشروط والأحكام للاستمرار؟</p>
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">❌ إغلاق</button>
+                                    <a href="/Payment/Checkout" class="btn btn-success">✅ أوافق وانتقل للدفع</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+</div>
+
+<!-- JavaScript لتبديل التفاصيل -->
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const images = document.querySelectorAll(".clickable");
+        const details = document.querySelectorAll(".details");
+
+        images.forEach(img => {
+            img.addEventListener("click", function () {
+                // اخفاء جميع التفاصيل
+                details.forEach(d => d.classList.add("d-none"));
+
+                // عرض التفاصيل المحددة
+                const targetId = this.getAttribute("data-target");
+                document.getElementById(targetId).classList.remove("d-none");
+            });
+        });
+    });
+</script>
+
+

@@ -1,0 +1,175 @@
+﻿@{
+    ViewData["Title"] = "لوحة تحكم الموظف";
+}
+
+<div dir="rtl" style="text-align:right;">
+
+    <h2 class="text-primary mb-4">👨‍💼 لوحة تحكم الموظف</h2>
+
+    <!-- 🔎 محرك بحث -->
+    <form asp-controller="Home" asp-action="Search" method="post" class="mb-4">
+        <input type="text" name="query" class="form-control mb-2" placeholder="ابحث عن كلمة...">
+        <button type="submit" class="btn btn-primary">بحث</button>
+    </form>
+
+    <!-- ✅ روابط الأقسام -->
+    <div class="row text-center">
+        <div class="col-md-3 mb-3">
+            <a href="/EmployeeAqarats" class="text-decoration-none">
+                <div class="card hover-card p-3 shadow-sm h-100">
+                    <h5>العقارات</h5>
+                    <p>إضافة وتعديل وحذف العقارات</p>
+                </div>
+            </a>
+        </div>
+
+        <div class="col-md-3 mb-3">
+            <a href="/EmployeeLands" class="text-decoration-none">
+                <div class="card hover-card p-3 shadow-sm h-100">
+                    <h5>الأراضي</h5>
+                    <p>إدارة الأراضي التجارية والصناعية</p>
+                </div>
+            </a>
+        </div>
+
+        <div class="col-md-3 mb-3">
+            <a href="/EmployeeComplexes" class="text-decoration-none">
+                <div class="card hover-card p-3 shadow-sm h-100">
+                    <h5>المجمعات</h5>
+                    <p>إدارة المجمعات والصالات الرياضية</p>
+                </div>
+            </a>
+        </div>
+
+        <div class="col-md-3 mb-3">
+            <a href="/EmployeeFields" class="text-decoration-none">
+                <div class="card hover-card p-3 shadow-sm h-100">
+                    <h5>الملاعب</h5>
+                    <p>إدارة الملاعب المختلفة</p>
+                </div>
+            </a>
+        </div>
+    </div>
+
+
+    <style>
+        .hover-card {
+            transition: transform 0.3s ease, background-color 0.3s ease;
+            cursor: pointer;
+            border-radius: 10px;
+        }
+
+            .hover-card:hover {
+                transform: translateY(-5px);
+                background-color: #b5e8bb;
+                box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+            }
+
+        ul.no-bullets {
+            list-style-type: none;
+            padding: 0;
+        }
+    </style>
+
+
+    <!-- ✅ نتائج البحث -->
+    @if (ViewBag.Query != null)
+    {
+        <hr />
+        <h4 class="text-success">نتائج البحث عن: "@ViewBag.Query"</h4>
+
+        <div>
+            <!-- 📌 العقارات -->
+            <h5>📌 العقارات</h5>
+            @if (ViewBag.Aqarats.Count == 0)
+            {
+                <p>لا توجد نتائج</p>
+            }
+            else
+            {
+                <ul class="no-bullets">
+                    @foreach (var c in ViewBag.Aqarats)
+                    {
+                        <li class="mb-3">
+                            <div class="card hover-card p-3 shadow-sm">
+                                <strong>@c.Name</strong> - @c.Description <br />
+                                📍 الموقع: @c.Location <br />
+                                📐 المساحة: @c.Area <br />
+                                <a asp-controller="EmployeeAqarats" asp-action="Details" asp-route-id="@c.Id" class="btn btn-outline-primary btn-sm mt-2">📄 عرض التفاصيل</a>
+                            </div>
+                        </li>
+                    }
+                </ul>
+            }
+
+            <!-- 📌 الأراضي -->
+            <h5>📌 الأراضي</h5>
+            @if (ViewBag.Lands.Count == 0)
+            {
+                <p>لا توجد نتائج</p>
+            }
+            else
+            {
+                <ul class="no-bullets">
+                    @foreach (var c in ViewBag.Lands)
+                    {
+                        <li class="mb-3">
+                            <div class="card hover-card p-3 shadow-sm">
+                                <strong>@c.Name</strong> - @c.Description <br />
+                                📍 الموقع: @c.Location <br />
+                                📐 المساحة: @c.Area <br />
+                                <a asp-controller="EmployeeLands" asp-action="Details" asp-route-id="@c.Id" class="btn btn-outline-primary btn-sm mt-2">📄 عرض التفاصيل</a>
+                            </div>
+                        </li>
+                    }
+                </ul>
+            }
+
+            <!-- 📌 المجمعات -->
+            <h5>📌 المجمعات</h5>
+            @if (ViewBag.Complexes.Count == 0)
+            {
+                <p>لا توجد نتائج</p>
+            }
+            else
+            {
+                <ul class="no-bullets">
+                    @foreach (var c in ViewBag.Complexes)
+                    {
+                        <li class="mb-3">
+                            <div class="card hover-card p-3 shadow-sm">
+                                <strong>@c.Name</strong> - @c.Description <br />
+                                📍 الموقع: @c.Location <br />
+                                👥 السعة: @c.Capacity <br />
+                                <a asp-controller="EmployeeComplexes" asp-action="Details" asp-route-id="@c.Id" class="btn btn-outline-primary btn-sm mt-2">📄 عرض التفاصيل</a>
+                            </div>
+                        </li>
+                    }
+                </ul>
+            }
+
+            <!-- 📌 الملاعب -->
+            <h5>📌 الملاعب</h5>
+            @if (ViewBag.Fields.Count == 0)
+            {
+                <p>لا توجد نتائج</p>
+            }
+            else
+            {
+                <ul class="no-bullets">
+                    @foreach (var c in ViewBag.Fields)
+                    {
+                        <li class="mb-3">
+                            <div class="card hover-card p-3 shadow-sm">
+                                <strong>@c.Name</strong> - @c.Description <br />
+                                📍 الموقع: @c.Location <br />
+                                📐 المساحة: @c.Area <br />
+                                <a asp-controller="EmployeeFields" asp-action="Details" asp-route-id="@c.Id" class="btn btn-outline-primary btn-sm mt-2">📄 عرض التفاصيل</a>
+                            </div>
+                        </li>
+                    }
+                </ul>
+            }
+        </div>
+    }
+</div>

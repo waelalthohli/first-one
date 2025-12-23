@@ -1,0 +1,938 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\assets\\fields.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\assets\\fields.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\assets\\lands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\assets\\lands.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeefields\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeefields\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeeaqarats\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeeaqarats\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeelands\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeelands\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeecomplexes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeecomplexes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeefields\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeefields\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\assets\\complexs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\assets\\complexs.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\assets\\aqarat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\assets\\aqarat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeeaqarats\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeeaqarats\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeecomplexes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeecomplexes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\models\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\models\\searchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\controllers\\employeedashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\controllers\\employeedashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\models\\employeeregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\models\\employeeregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\models\\assest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\models\\assest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\home\\contact_us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\home\\contact_us.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeelands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeelands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeeregisters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeeregisters\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeeaqarats\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeeaqarats\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeecomplexes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeecomplexes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeefields\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeefields\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeelands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeelands\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeelands\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeelands\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeefields\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeefields\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeecomplexes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeecomplexes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeeaqarats\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeeaqarats\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeefields\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeefields\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeeaqarats\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeeaqarats\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeecomplexes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeecomplexes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeelands\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeelands\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\controllers\\employeecomplexescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\controllers\\employeecomplexescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\controllers\\employeefieldscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\controllers\\employeefieldscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\controllers\\employeeaqaratscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\controllers\\employeeaqaratscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\controllers\\employeelandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\controllers\\employeelandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\models\\aqarat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\models\\aqarat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\data\\migrations\\20250901070157_update1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\data\\migrations\\20250901070157_update1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\controllers\\employeeregisterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\controllers\\employeeregisterscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\models\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\models\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\models\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\models\\land.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeeregisters\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeeregisters\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeeregisters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeeregisters\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeeregisters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeeregisters\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\views\\employeeregisters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\views\\employeeregisters\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\models\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\models\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|c:\\users\\dell\\source\\repos\\fourth_mvc\\fourth_mvc\\data\\migrations\\20250901075600_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{117C6504-F3A4-468E-9A63-36D3BC26CD01}|Fourth_MVC\\Fourth_MVC.csproj|solutionrelative:fourth_mvc\\data\\migrations\\20250901075600_initialcreate2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeComplexes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeComplexes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeComplexes\\Details.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeComplexes\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T13:40:17.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeLands\\Details.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeLands\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeLands\\Details.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeLands\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T11:25:54.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeAqarats\\Details.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeAqarats\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeAqarats\\Details.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeAqarats\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T13:41:13.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "Fourth_MVC\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAADQAAAAAlJmZmVkkwF8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T10:15:47.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Fourth_MVC\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Fourth_MVC\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAACQAAAAANzMzMzMLwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-09-01T17:48:40.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fields.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Assets\\Fields.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\Assets\\Fields.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Assets\\Fields.cshtml*",
+              "RelativeToolTip": "Fourth_MVC\\Views\\Assets\\Fields.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T10:09:27.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Fourth_MVC\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T10:18:01.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeFields\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeFields\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeFields\\Index.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeFields\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T13:23:23.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lands.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Assets\\Lands.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\Assets\\Lands.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Assets\\Lands.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\Assets\\Lands.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T10:08:16.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeFields\\Details.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeFields\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeFields\\Details.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeFields\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T13:39:41.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeAqarats\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeAqarats\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeAqarats\\Index.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeAqarats\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T13:15:29.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Aqarat.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Assets\\Aqarat.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\Assets\\Aqarat.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Assets\\Aqarat.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\Assets\\Aqarat.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T10:12:24.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Complexs.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Assets\\Complexs.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\Assets\\Complexs.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Assets\\Complexs.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\Assets\\Complexs.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T10:11:40.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeComplexes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeComplexes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeComplexes\\Index.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeComplexes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T13:06:47.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAK8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T10:14:25.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Fourth_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAowCkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:05:37.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeLands\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeLands\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeLands\\Index.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeLands\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T11:24:18.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeRegisters\\Index.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeRegisters\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeRegisters\\Index.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeRegisters\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T13:00:44.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeAqarats\\Create.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeAqarats\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeAqarats\\Create.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeAqarats\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T13:16:24.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeComplexes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeComplexes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeComplexes\\Create.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeComplexes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T13:25:01.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SearchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Models\\SearchViewModel.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Models\\SearchViewModel.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Models\\SearchViewModel.cs",
+              "RelativeToolTip": "Fourth_MVC\\Models\\SearchViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T17:01:27.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\EmployeeDashboardController.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Controllers\\EmployeeDashboardController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\EmployeeDashboardController.cs",
+              "RelativeToolTip": "Fourth_MVC\\Controllers\\EmployeeDashboardController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T17:06:06.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "contact_us.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Home\\contact_us.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\Home\\contact_us.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Home\\contact_us.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\Home\\contact_us.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T10:16:10.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Assest.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Models\\Assest.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Models\\Assest.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Models\\Assest.cs",
+              "RelativeToolTip": "Fourth_MVC\\Models\\Assest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T09:54:21.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeRegister.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Models\\EmployeeRegister.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Models\\EmployeeRegister.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Models\\EmployeeRegister.cs",
+              "RelativeToolTip": "Fourth_MVC\\Models\\EmployeeRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:56:14.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeFields\\Create.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeFields\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeFields\\Create.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeFields\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T13:10:03.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeLands\\Create.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeLands\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeLands\\Create.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeLands\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T11:28:02.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeLands\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeLands\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeLands\\Edit.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeLands\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T11:30:09.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeFields\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeFields\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeFields\\Edit.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeFields\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T13:42:01.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeComplexes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeComplexes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeComplexes\\Edit.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeComplexes\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T13:46:16.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeAqarats\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeAqarats\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeAqarats\\Edit.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeAqarats\\Edit.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswCEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T13:47:24.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAswB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T12:55:07.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T12:48:08.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Program.cs",
+              "RelativeToolTip": "Fourth_MVC\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T13:31:36.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeFields\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeFields\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeFields\\Delete.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeFields\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T13:36:55.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeAqarats\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeAqarats\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeAqarats\\Delete.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeAqarats\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T13:38:58.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeComplexes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeComplexes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeComplexes\\Delete.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeComplexes\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-01T13:37:38.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeLands\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeLands\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeLands\\Delete.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeLands\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T11:31:24.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EmployeeComplexesController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\EmployeeComplexesController.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Controllers\\EmployeeComplexesController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\EmployeeComplexesController.cs",
+              "RelativeToolTip": "Fourth_MVC\\Controllers\\EmployeeComplexesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:22:22.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "EmployeeFieldsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\EmployeeFieldsController.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Controllers\\EmployeeFieldsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\EmployeeFieldsController.cs",
+              "RelativeToolTip": "Fourth_MVC\\Controllers\\EmployeeFieldsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:19:33.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmployeeLandsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\EmployeeLandsController.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Controllers\\EmployeeLandsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\EmployeeLandsController.cs",
+              "RelativeToolTip": "Fourth_MVC\\Controllers\\EmployeeLandsController.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAqwFIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:14:57.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmployeeAqaratsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\EmployeeAqaratsController.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Controllers\\EmployeeAqaratsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\EmployeeAqaratsController.cs",
+              "RelativeToolTip": "Fourth_MVC\\Controllers\\EmployeeAqaratsController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAuwF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T11:20:48.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Aqarat.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Models\\Aqarat.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Models\\Aqarat.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Models\\Aqarat.cs",
+              "RelativeToolTip": "Fourth_MVC\\Models\\Aqarat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T10:02:02.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AssetsController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\AssetsController.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Controllers\\AssetsController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\AssetsController.cs",
+              "RelativeToolTip": "Fourth_MVC\\Controllers\\AssetsController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T10:02:06.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Fourth_MVC\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T10:05:38.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Fourth_MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwEkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T12:44:22.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "20250901075600_InitialCreate2.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Data\\Migrations\\20250901075600_InitialCreate2.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Data\\Migrations\\20250901075600_InitialCreate2.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Data\\Migrations\\20250901075600_InitialCreate2.cs",
+              "RelativeToolTip": "Fourth_MVC\\Data\\Migrations\\20250901075600_InitialCreate2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:56:00.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "EmployeeRegistersController.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\EmployeeRegistersController.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Controllers\\EmployeeRegistersController.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Controllers\\EmployeeRegistersController.cs",
+              "RelativeToolTip": "Fourth_MVC\\Controllers\\EmployeeRegistersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T10:43:53.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250901070157_Update1.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Data\\Migrations\\20250901070157_Update1.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Data\\Migrations\\20250901070157_Update1.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Data\\Migrations\\20250901070157_Update1.cs",
+              "RelativeToolTip": "Fourth_MVC\\Data\\Migrations\\20250901070157_Update1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T07:01:57.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Complex.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Models\\Complex.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Models\\Complex.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Models\\Complex.cs",
+              "RelativeToolTip": "Fourth_MVC\\Models\\Complex.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:57:25.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Land.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Models\\Land.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Models\\Land.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Models\\Land.cs",
+              "RelativeToolTip": "Fourth_MVC\\Models\\Land.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:59:41.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "Fourth_MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\appsettings.json",
+              "RelativeToolTip": "Fourth_MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T11:09:50.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeRegisters\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeRegisters\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeRegisters\\Delete.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeRegisters\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T12:59:19.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeRegisters\\Create.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeRegisters\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeRegisters\\Create.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeRegisters\\Create.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T12:58:23.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeRegisters\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeRegisters\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeRegisters\\Edit.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeRegisters\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T13:00:12.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeRegisters\\Details.cshtml",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Views\\EmployeeRegisters\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Views\\EmployeeRegisters\\Details.cshtml",
+              "RelativeToolTip": "Fourth_MVC\\Views\\EmployeeRegisters\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T12:59:34.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Field.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Models\\Field.cs",
+              "RelativeDocumentMoniker": "Fourth_MVC\\Models\\Field.cs",
+              "ToolTip": "C:\\Users\\Dell\\source\\repos\\Fourth_MVC\\Fourth_MVC\\Models\\Field.cs",
+              "RelativeToolTip": "Fourth_MVC\\Models\\Field.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T09:58:43.785Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
